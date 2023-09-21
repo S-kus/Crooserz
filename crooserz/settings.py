@@ -93,7 +93,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'crooserz_db',
         'USER': 'postgres',
-        'PASSWORD': 'saumya@123',
+        'PASSWORD': 'your-password',
         'HOST': 'localhost',
     }
 }
@@ -156,6 +156,6 @@ SITE_ID = 1
 # Email sending
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'iamezio1234@gmail.com'
-EMAIL_HOST_PASSWORD = 'isuperman'
+EMAIL_HOST_USER = 'EMAIL_ID'
+EMAIL_HOST_PASSWORD = 'PASSWORD'
 EMAIL_USE_TLS = True
